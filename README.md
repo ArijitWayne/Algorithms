@@ -5,7 +5,6 @@
 -  C++
 -  Java
 -  Python (2 & 3)
--  Kotlin
 
 **Table of Contents :**
 
